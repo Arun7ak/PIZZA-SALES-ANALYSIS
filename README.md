@@ -1,2 +1,3 @@
 # PIZZA-SALES-ANALYSIS
-PIZZA SALES ANALYSIS USING SQL AND POWERBI
+PIZZA SALES ANALYSIS USING SQL AND POWERBI:
+The Pizza Sales Analysis project looks at pizza sales data to find important information about sales patterns, customer preferences, and how different pizzas are performing. The project uses Excel to clean and prepare the data, SQL to extract useful information, and Power BI to create easy-to-understand dashboards. It focuses on finding the best-selling pizzas, looking at sales trends throughout the year, and identifying peak sales periods. The analysis helps understand what customers prefer, such as popular pizza flavors and the effect of discounts on sales. The results give businesses helpful insights to improve their inventory, marketing, and customer engagement.
