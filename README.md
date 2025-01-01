@@ -53,12 +53,5 @@ The goal of this project is to analyze pizza sales data to uncover trends, insig
 - **Peak Sales Periods:** Identify the days or hours with the highest sales.
 - **Revenue Contribution:** Break down sales revenue by pizza category.
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
 
-## Acknowledgements
-Special thanks to the team and resources that contributed to the analysis and development of this dashboard.
-
-## Contact
-For questions or feedback, please contact [your email or GitHub username].
 
