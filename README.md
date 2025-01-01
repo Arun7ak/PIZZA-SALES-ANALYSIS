@@ -27,7 +27,7 @@ The goal of this project is to analyze pizza sales data to uncover trends, insig
 │   ├── Pizza_Sales_Dashboard.pbix  # Power BI dashboard file
 ├── README.md                      # Project documentation
 └── dataset
-    ├── pizza_sales_raw.csv        # Raw data (if available)
+    ├── pizza_sales_raw.csv        # Raw data
 ```
 
 ## How to Use
